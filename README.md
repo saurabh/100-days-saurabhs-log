@@ -9,4 +9,4 @@ The log of my 100 Days Of Code
 
 **Thoughts:** Took me an hour to complete the Staircase problem on Hackerrank lol. JS Drum kit was fun. Learnt about data-keys and audio files and the nuances of queryselector.
 
-**Link to work:** [Javascript Drum Kit](https://github.com/saurabh/Javascript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
+**Link to work:** [Javascript Drum Kit](https://github.com/saurabh/Javascript30/tree/master/01%20-%20JavaScript%20Drum%20Kit) [View on Netlify](https://dazzling-shannon-d5f638.netlify.com/)
