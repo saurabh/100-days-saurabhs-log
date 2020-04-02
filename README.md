@@ -16,5 +16,5 @@ The log of my 100 Days Of Code
 
 **Today's Progress**: Completed the 2nd Project from javascript30. Did a few more warm up exercises on hackerrank.
 
-**Link to work**: [Javascript Drum Kit](https://github.com/saurabh/Javascript30/tree/master/02%20-%20JS%20and%20CSS%20Clock) | [View on Netlify](https://frosty-hamilton-9e4782.netlify.com/)
+**Link to work**: [CSS & JS Clock](https://github.com/saurabh/Javascript30/tree/master/02%20-%20JS%20and%20CSS%20Clock) | [View on Netlify](https://frosty-hamilton-9e4782.netlify.com/)
 
