@@ -12,7 +12,7 @@ The log of my 100 Days Of Code
 **Link to work**: [Javascript Drum Kit](https://github.com/saurabh/Javascript30/tree/master/01%20-%20JavaScript%20Drum%20Kit) | [View on Netlify](https://dazzling-shannon-d5f638.netlify.com/)
 
 
-### R1 D1: April 2 Thursday
+### R1 D2: April 2 Thursday
 
 **Today's Progress**: Completed the 2nd Project from javascript30. Did a few more warm up exercises on hackerrank.
 
