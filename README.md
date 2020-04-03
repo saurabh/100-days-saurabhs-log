@@ -22,7 +22,7 @@ The log of my 100 Days Of Code
 
 **Today's Progress**: Completed the 3rd Project from javascript30. Done with hackerrank warmup exercies.
 
-**Thoughts**: Didn't even know CSS Variables were a thing. Also this.dataset to fetch data attributes is neat.
+**Thoughts**: Was pretty tough to get started today. One of those days where you don't want to do anything and just sleep in. But I went through with it anyway, albiet a little lazily. Didn't know CSS Variables were a thing. Also this.dataset to fetch data attributes is neat.
 
 **Link to work**: [CSS variables](https://github.com/saurabh/Javascript30/tree/master/03%20-%20CSS%20Variables) | [View on Netlify](https://gallant-leakey-7bb80a.netlify.com)
 
