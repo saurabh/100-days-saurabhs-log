@@ -18,3 +18,11 @@ The log of my 100 Days Of Code
 
 **Link to work**: [CSS & JS Clock](https://github.com/saurabh/Javascript30/tree/master/02%20-%20JS%20and%20CSS%20Clock) | [View on Netlify](https://frosty-hamilton-9e4782.netlify.com/)
 
+### R1 D3: April 3 Friday
+
+**Today's Progress**: Completed the 3rd Project from javascript30. Done with hackerrank warmup exercies.
+
+**Thoughts**: Didn't even know CSS Variables were a thing. Also this.dataset to fetch data attributes is neat.
+
+**Link to work**: [CSS variables](https://github.com/saurabh/Javascript30/tree/master/03%20-%20CSS%20Variables) | [View on Netlify](https://gallant-leakey-7bb80a.netlify.com)
+
