@@ -20,9 +20,16 @@ The log of my 100 Days Of Code
 
 ### R1 D3: April 3 Friday
 
-**Today's Progress**: Completed the 3rd Project from javascript30. Done with hackerrank warmup exercies.
+**Today's Progress**: Completed the 3rd Project from javascript30. Done with hackerrank warmup exercises.
 
-**Thoughts**: Was pretty tough to get started today. One of those days where you don't want to do anything and just sleep in. But I went through with it anyway, albiet a little lazily. Didn't know CSS Variables were a thing. Also this.dataset to fetch data attributes is neat.
+**Thoughts**: Was pretty tough to get started today. One of those days where you don't want to do anything, sleep in a little longer and take it easy. But I went through with it anyway, albeit a little slow. Didn't know CSS Variables were a thing. Also this.dataset to fetch data attributes is neat.
 
 **Link to work**: [CSS variables](https://github.com/saurabh/Javascript30/tree/master/03%20-%20CSS%20Variables) | [View on Netlify](https://gallant-leakey-7bb80a.netlify.com)
 
+### R1 D4: April 4 Saturday
+
+**Today's Progress**: Completed the 4th Project from JS30. Refresher on array methods.
+
+**Thoughts**: Busy day in the crypto markets so was a little preoccupied. Was able to complete this exercise on my own.
+
+**Link to work**: [Array Cardio Day 1](https://github.com/saurabh/Javascript30/tree/master/04%20-%20Array%20Cardio%20Day%201)
