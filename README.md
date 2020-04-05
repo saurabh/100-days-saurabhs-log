@@ -33,3 +33,11 @@ The log of my 100 Days Of Code
 **Thoughts**: Busy day in the crypto markets so was a little preoccupied. Was able to complete this exercise on my own.
 
 **Link to work**: [Array Cardio Day 1](https://github.com/saurabh/Javascript30/tree/master/04%20-%20Array%20Cardio%20Day%201)
+
+### R1 D5: April 5 Sunday
+
+**Today's Progress**: Completed the 5th project from #Javascript30.
+
+**Thoughts**: There's so much to remember in CSS. Going to work on a few more projects with CSS starting tomorrow.
+
+**Link to work**: [Array Cardio Day 1](https://github.com/saurabh/Javascript30/tree/master/05%20-%20Flex%20Panel%20Gallery)
