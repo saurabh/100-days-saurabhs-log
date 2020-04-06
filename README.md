@@ -41,3 +41,11 @@ The log of my 100 Days Of Code
 **Thoughts**: There's so much to remember in CSS. Going to work on a few more projects with CSS starting tomorrow.
 
 **Link to work**: [Array Cardio Day 1](https://github.com/saurabh/Javascript30/tree/master/05%20-%20Flex%20Panel%20Gallery)
+
+### R1 D6: April 6 Monday
+
+**Today's Progress**: Completed the 6th project from #Javascript30.
+
+**Thoughts**: So much to learn, so little time. I'm going to take a small breather from JS30 and go a little in-depth in what I've learned in the past two days.
+
+**Link to work**: [Type Ahead](https://github.com/saurabh/Javascript30/tree/master/06%20-%20Type%20Ahead)
