@@ -49,3 +49,9 @@ The log of my 100 Days Of Code
 **Thoughts**: So much to learn, so little time. I'm going to take a small breather from JS30 and go a little in-depth in what I've learned in the past two days.
 
 **Link to work**: [Type Ahead](https://github.com/saurabh/Javascript30/tree/master/06%20-%20Type%20Ahead)
+
+### R1 D7: April 7 Tueday
+
+**Today's Progress**: Completed the 7th project from #Javascript30. Made some notes on CSS.
+
+**Link to work**: [Array Cardio Day 2](https://github.com/saurabh/Javascript30/tree/master/07%20-%20Array%20Cardio%20Day%202)
