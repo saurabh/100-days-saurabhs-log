@@ -55,3 +55,11 @@ The log of my 100 Days Of Code
 **Today's Progress**: Completed the 7th project from #Javascript30. Made some notes on CSS.
 
 **Link to work**: [Array Cardio Day 2](https://github.com/saurabh/Javascript30/tree/master/07%20-%20Array%20Cardio%20Day%202)
+
+### R1 D8: April 8 Wednesday
+
+**Today's Progress**: Completed the HTML Canvas project from #Javascript30. Almost done with CSS refresher.
+
+**Thoughts**: Made a lot of progress today. I feel like I understand CSS a lot better now. Should be done with the CSS refresher by tomorrow. HTML Canvas project was a lot of fun to work on.
+
+**Link to work**: [HTML Canvas](https://github.com/saurabh/Javascript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas) | [View on Netlify](https://pensive-babbage-87b8e9.netlify.com/)
