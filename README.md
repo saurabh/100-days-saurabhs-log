@@ -63,3 +63,9 @@ The log of my 100 Days Of Code
 **Thoughts**: Made a lot of progress today. I feel like I understand CSS a lot better now. Should be done with the CSS refresher by tomorrow. HTML Canvas project was a lot of fun to work on.
 
 **Link to work**: [HTML Canvas](https://github.com/saurabh/Javascript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas) | [View on Netlify](https://pensive-babbage-87b8e9.netlify.com/)
+
+### R1 D9: April 9 Wednesday
+
+**Today's Progress**: Played around with Dev Tools. Didn't get around to finishing CSS refresher.
+
+**Link to work**: [Dev tools tips](https://github.com/saurabh/Javascript30/tree/master/09%20-%20Dev%20Tools%20Domination)
