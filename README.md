@@ -76,4 +76,10 @@ The log of my 100 Days Of Code
 
 **Link to work**: [Hold shift and check checkboxes](https://github.com/saurabh/Javascript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)
 
+### R1 D11: April 11 Saturday
+
+**Today's Progress**: Completed the HTML video player from JS30 with some additional functionality like full screen.
+
+**Link to work**: [Custom Video Player](https://github.com/saurabh/Javascript30/tree/master/11%20-%20Custom%20Video%20Player) | [View on Netlify](https://nostalgic-bhaskara-b1e207.netlify.com/)
+
 
