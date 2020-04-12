@@ -82,4 +82,10 @@ The log of my 100 Days Of Code
 
 **Link to work**: [Custom Video Player](https://github.com/saurabh/Javascript30/tree/master/11%20-%20Custom%20Video%20Player) | [View on Netlify](https://nostalgic-bhaskara-b1e207.netlify.com/)
 
+### R1 D12: April 12 Sunday
+
+**Today's Progress**: Created a phrase detection script that does something when a certain word is typed heh.
+
+**Link to work**: [Phrase detection](https://github.com/saurabh/Javascript30/tree/master/12%20-%20Key%20Sequence%20Detection) | [View on Netlify](https://naughty-agnesi-c8e70c.netlify.com/)
+
 
