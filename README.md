@@ -88,4 +88,10 @@ The log of my 100 Days Of Code
 
 **Link to work**: [Phrase detection](https://github.com/saurabh/Javascript30/tree/master/12%20-%20Key%20Sequence%20Detection) | [View on Netlify](https://naughty-agnesi-c8e70c.netlify.com/)
 
+### R1 D13: April 13 Monday
+
+**Today's Progress**: Learnt about window properties like scrollY and how they correlate with images. Using debounce to reduce the number of times scroll events are called improves performance.
+
+**Link to work**: [Slide in on scroll](https://github.com/saurabh/Javascript30/tree/master/13%20-%20Slide%20in%20on%20Scroll)
+
 
