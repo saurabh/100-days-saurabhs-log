@@ -98,6 +98,6 @@ The log of my 100 Days Of Code
 
 **Today's Progress**: Refresher on Arrays and Object referencing vs copying. Learnt a couple of extra things that I did not know like copying an array or an object will only copy the first level down but not other arrays/objects that are nested. Did a problem on hackerrank. 
 
-**Link to work**: [Slide in on scroll](https://github.com/saurabh/Javascript30/tree/master/13%20-%20Slide%20in%20on%20Scroll)
+**Link to work**: [Referencing vs Copying](https://github.com/saurabh/Javascript30/tree/master/14%20-%20JavaScript%20References%20VS%20Copying)
 
 
